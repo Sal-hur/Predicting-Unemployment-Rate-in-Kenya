@@ -1,7 +1,42 @@
-#              Omdena - Predicting Unemployment Rate in Kenya.
+            #              Omdena - Predicting Unemployment Rate in Kenya.
 
 Unemployment is a pressing socio-economic challenge globally, including Kenya. Kenya, a developing East African nation, faces a persistent unemployment problem. 
-Objective:- Provide an in-depth understanding of Kenya's unemployent rate, including its causes and potential solution.
+This project aims to predict the unemployment rate in Kenya using machine learning techniques. Predicting unemployment rates can provide valuable insights for policymakers, businesses, and individuals in Kenya, helping them make informed decisions and plan for the future.
+
+
+-----
+
+
+## Project Tasks
+The project is organized into several tasks to systematically approach the goal of predicting the unemployment rate:
+
+###  Task 1: Data Collection
+In Task 1, we collect data from various sources mentioned above and store it in a centralized location. This ensures data is easily accessible for subsequent tasks.
+
+###  Task 2: Data Preprocessing and Cleaning
+Task 2 involves cleaning and preprocessing the raw data to ensure it is suitable for analysis and modeling. This includes handling missing values, standardizing data formats, and encoding categorical variables.
+
+###  Task 3: Exploratory Data Analysis (EDA)
+Task 3 focuses on exploratory data analysis, where we examine the dataset's characteristics, visualize data, and identify patterns and relationships. EDA helps us gain insights and guide subsequent modeling decisions.
+
+###  Task 4: Feature Engineering and Selection
+In Task 4, we engineer new features and select relevant ones to improve the model's predictive power. Feature engineering involves creating meaningful features from existing data, while feature selection aims to reduce dimensionality.
+
+###  Task 5: Model Development
+Task 5 involves building, training, and fine-tuning machine learning models using the preprocessed dataset. We experiment with various algorithms and techniques to find the best-performing model.
+
+###  Task 6: Model Evaluation
+In Task 6, we evaluate the model's performance using validation and test datasets. We calculate evaluation metrics such as Mean Absolute Error (MAE) and R-squared to assess model accuracy.
+
+###  Task 7: Model Integration
+Task 7 focuses on integrating the best-performing model into a deployable format, making it accessible for end-users and stakeholders. This may involve API development, containerization, and setting up a deployment environment.
+
+###  Task 8: Model Deployment
+In Task 8, we deploy the model in a production environment, ensuring it is scalable, reliable, and secure. We provide documentation and user instructions for utilizing the deployed model effectively.
+
+
+-----
+
 
 ## Demo
 
