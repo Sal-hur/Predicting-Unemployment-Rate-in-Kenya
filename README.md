@@ -1,4 +1,4 @@
-            #              Omdena - Predicting Unemployment Rate in Kenya.
+#      Omdena - Predicting Unemployment Rate in Kenya.
 
 Unemployment is a pressing socio-economic challenge globally, including Kenya. Kenya, a developing East African nation, faces a persistent unemployment problem. 
 This project aims to predict the unemployment rate in Kenya using machine learning techniques. Predicting unemployment rates can provide valuable insights for policymakers, businesses, and individuals in Kenya, helping them make informed decisions and plan for the future.
