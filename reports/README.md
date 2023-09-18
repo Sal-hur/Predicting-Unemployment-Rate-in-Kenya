@@ -1,4 +1,4 @@
-            #              Omdena - Predicting Unemployment Rate in Kenya.
+                        #              Omdena - Predicting Unemployment Rate in Kenya.
 
 Unemployment is a pressing socio-economic challenge globally, including Kenya. Kenya, a developing East African nation, faces a persistent unemployment problem. 
 Objective:- Provide an in-depth understanding of Kenya's unemployent rate, including its causes and potential solution.
@@ -7,7 +7,7 @@ Objective:- Provide an in-depth understanding of Kenya's unemployent rate, inclu
 
 
 
-## Report Structure
+## Report Folder Structure
 
 ```
 
