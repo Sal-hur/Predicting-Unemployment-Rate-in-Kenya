@@ -1,4 +1,4 @@
-#      Omdena - Predicting Unemployment Rate in Kenya.
+            #      Omdena - Predicting Unemployment Rate in Kenya.
 
 Unemployment is a pressing socio-economic challenge globally, including Kenya. Kenya, a developing East African nation, faces a persistent unemployment problem. 
 This project aims to predict the unemployment rate in Kenya using machine learning techniques. Predicting unemployment rates can provide valuable insights for policymakers, businesses, and individuals in Kenya, helping them make informed decisions and plan for the future.
@@ -38,19 +38,9 @@ In Task 8, we deploy the model in a production environment, ensuring it is scala
 -----
 
 
-## Demo
-
-Once the project is deployed, put the demo link here.
-
-1. If the project is not deployed that you can skip this section
-
-<Add documentation link here, if any>
-
-<Add graphics as needed. Example: dataset sample, project’s title image etc.>
 
 ## Contribution Guidelines
 
-- Have a Look at the [project structure](https://www.notion.so/Omdena-Project-Name-cd33d5b0bd5a4f7ba45c046478daa3f9?pvs=21) and [folder overview](https://www.notion.so/Omdena-Project-Name-cd33d5b0bd5a4f7ba45c046478daa3f9?pvs=21) below to understand where to store/upload your contribution
 - If you're creating a task, Go to the task folder and create a new folder with the below naming convention and add a [README.md](http://readme.md/) with task details and goals to help other contributors understand
     - Task Folder Naming Convention : *task-n-taskname.(n is the task number)* ex: task-1-data-analysis, task-2-model-deployment etc.
     - Create a [README.md](http://readme.md/) with a table containing information table about all contributions for the task.
