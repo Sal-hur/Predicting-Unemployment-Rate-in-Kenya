@@ -1,6 +1,3 @@
-            Creating a README to describe the columns in your dataset is a good practice for documentation. Here's a sample README that describes the columns in your dataset:
-
----
 
 # Dataset Description
 
